@@ -4,6 +4,6 @@ namespace PrevostApp.Domain
 {
     public class Class1
     {
-        //** TEST NEXT STEP 2**//
+        //** TEST NEXT STEP**//
     }
 }
