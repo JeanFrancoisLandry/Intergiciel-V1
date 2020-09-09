@@ -1,0 +1,151 @@
+﻿{
+   "ContextClassName": "PrevostContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "ProjectRootNamespace": "PrevostApp.Data",
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Net_DesignItem]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Net_DesignProductionBOM]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Net_DesignRouting]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Net_SalesQuoteItem]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Net_SalesQuoteRelease]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Relation_Article]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Relation_Atelier]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Relation_ConfigurationCouleur]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Relation_ItemCategoryCode]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Relation_PosteDeTravail]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Stage_BesoinMateriel]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Stage_BesoinMaterielParent]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Stage_DetailDescriptionProject]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Stage_DetailProject]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Stage_Employe]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Stage_Groupes]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Stage_LotMiseEnProductionProjet]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Stage_MainOeuvreOptimization]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Stage_MainOeuvrePoste]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Stage_MainOeuvreProjet]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Stage_Materiel]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Stage_MaterielBase]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Stage_MaterielOptimization]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Stage_MaterielProject]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Stage_Optimisation]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Stage_PosteDeTravail]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Stage_Projet]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Stage_TempsMateriel]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Stage_TypeProduits]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Trace_ErrorsDB]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Trace_TableIntergiciel]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Trace_Transactions]"
+      }
+   ],
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseNodaTime": false,
+   "UseSpatial": false,
+   "UseStoredProcedures": false
+}
